@@ -17,11 +17,5 @@ q
 Asrc/main/java/com/practice/security/config/WebSecurityConfig.java,5\8\58cebc1ae3cae50e9adee6df0f4282ff03d52edc
 ƒ
 Ssrc/main/java/com/practice/security/listener/RegistrationCompleteEventListener.java,4\a\4a18a70d9b0abb4c5b19704f7d5f2bc805394cc4
-
-Osrc/main/java/com/practice/security/repository/VerificationTokenRepository.java,3\4\34ccb5c6f8665466052a68f84ca282bead11c69b
-x
-Hsrc/main/java/com/practice/security/event/RegistrationCompleteEvent.java,1\e\1ef81cf5cc5dbc7fb04599af7107556db147b5b5
 m
 =src/main/java/com/practice/security/services/UserService.java,f\0\f0d46d87826239a6e89af189b04a64b1aa29cfe4
-r
-Bsrc/main/java/com/practice/security/repository/UserRepository.java,5\5\554966aa1813924d5cb10610b6dd3346323fafae
